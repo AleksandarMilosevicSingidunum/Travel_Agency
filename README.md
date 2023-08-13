@@ -1,6 +1,6 @@
 # Travel Agency Website - MEAN Stack
 
-Welcome to the Travel Agency Website built with the MEAN stack (MongoDB, Express.js, Angular, Node.js). This project is designed to showcase a dynamic and interactive website for a travel agency, allowing users to explore destinations, book trips, and manage their travel preferences.
+Welcome to the Travel Agency Website built with the MEAN stack (MongoDB, Express.js, Angular, Node.js). This project is designed to showcase a dynamic and interactive website for a travel agency, allowing users to explore destinations.
 
 ## Features
 
