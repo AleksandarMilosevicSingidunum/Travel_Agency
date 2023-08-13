@@ -1,0 +1,39 @@
+.nav-link 
+{
+    color: var(--secondery-color);
+}
+
+
+.nav-link.active-link
+{
+    color: var(--primary-color);
+    box-shadow: none;
+}
+.navbar-brand
+{
+    color: var(--secondery-color);
+    font-size: 30px;
+    font-weight: bold;
+}
+.navbar
+{
+   background-color: #000000;
+    
+
+}
+.navbar-toggler
+{
+   background-color:var(--primary-color);
+   border-radius: 5px;
+}
+.btn
+{
+    background-color: var(--primary-color);
+    border: none;
+    color: #000;
+}
+.btn:hover
+{
+    background-color: #586380;
+    color: #fff;
+}

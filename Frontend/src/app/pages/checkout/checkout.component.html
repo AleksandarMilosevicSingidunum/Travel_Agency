@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="row">
+      <div class="col-md-6 offset-md-3">
+        <div class="card my-5">
+          <h1>Checkout</h1>
+          <div class="card-body cardbody-color p-lg-5">
+            <div class="mb-3">
+              <input type="number" #nop (change)="calculatePrice(nop)" class="form-control" id="numberOfPeoples" placeholder="Number of Peoples" >
+            </div>
+            <div class="mb-3">
+              <input type="email" class="form-control" id="email" placeholder="Email Address" >
+            </div>
+            <div class="mb-3">
+                <h4 id="price">Price for one Person: {{destinationList1.price}} $ </h4>
+            </div>
+            <div class="mb-3">
+                <h3>Total Amount: {{totalAmount}} $</h3>
+            </div>
+            <div class="text-center"><button type="submit" class="btn" (click)="addBooking()">Confirm Booking</button></div>
+          </div>
+        </div>
+  
+      </div>
+    </div>  
+  </div>

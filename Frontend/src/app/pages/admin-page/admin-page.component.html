@@ -1,0 +1,16 @@
+
+<div class="create">
+    <a routerLink="/add-destination"><button class="add" ><p>Add new Destination</p></button></a>
+
+</div>
+<div class="w-100" *ngFor = "let dl of destinationList">
+
+           <div class="destBox">
+                <img src="{{environment.IMG_URL}}{{dl.img1}}">
+                <h3>{{dl.name}}</h3>
+                <div class="buttons">
+                    <button (click)="onSelectedDelete(dl)" class="delete">Delete</button>
+                    <button (click)="onSelectedUpdate(dl)"routerLink="/update-destination/{{dl._id}}" class="update">Update</button>
+                </div>
+            </div>
+</div>

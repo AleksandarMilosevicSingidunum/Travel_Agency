@@ -1,0 +1,158 @@
+[{
+  "_id": {
+    "$oid": "629c1af02d896b2402f04670"
+  },
+  "name": "Moon Base",
+  "details": "Exotic Moon base filled with alot of leisure activities.",
+  "price": "50000",
+  "img1": "/images/moon1.jpeg",
+  "img2": "/images/moon2.jpg",
+  "img3": "/images/moon3.jpg",
+  "__v": 0,
+  "description": "The Moon is Earth's only natural satellite and the fifth largest moon in the solar system. The Moon's presence helps stabilize our planet's wobble and moderate our climate. The Moon's distance from Earth is about 240,000 miles (385,000km). The Moon has a very thin atmosphere called an exosphere.",
+  "rating": "4.27",
+  "tag": [
+    "satellite",
+    "space station",
+    "moon",
+    "leisure",
+    "galaxy"
+  ]
+},{
+  "_id": {
+    "$oid": "629c1b9b5aabc8cf530423d1"
+  },
+  "name": "International Space Station",
+  "details": "This international space station is one of the best options for people who want to go to space but also remain physically active",
+  "price": "80000",
+  "img1": "/images/iss1.jpg",
+  "img2": "/images/iss2.jpg",
+  "img3": "/images/iss3.jpg",
+  "__v": 0,
+  "description": "This international space station is one of the best options for people who want to go to space but also remain physically active.\nThe guests have an option to choose personal trainer",
+  "rating": "4.49",
+  "tag": [
+    "iss",
+    "fitness",
+    "galaxy",
+    "space station"
+  ]
+},{
+  "_id": {
+    "$oid": "629c21521505d323b52bdb33"
+  },
+  "name": "Venus Base",
+  "details": "Venus is the second planet from the Sun, and is Earth's closest neighbor in the solar system.",
+  "price": "100000",
+  "img1": "/images/venus1.jpg",
+  "img2": "/images/venus2.jpg",
+  "img3": "/images/venus3.jpg",
+  "__v": 0,
+  "description": "Venus is the second planet from the Sun, and is Earth's closest neighbor in the solar system. Venus is the brightest object in the sky after the Sun and the Moon, and sometimes looks like a bright star in the morning or evening sky. The planet is a little smaller than Earth, and is similar to Earth inside.",
+  "rating": "5.00",
+  "tag": [
+    "venus",
+    "hot",
+    "planet",
+    "galaxy",
+    "best rated"
+  ]
+},{
+  "_id": {
+    "$oid": "629c1c067eca2f005b230750"
+  },
+  "name": "Mars Base",
+  "details": "Mars is sometimes called the Red Planet. It's red because of rusty iron in the ground.",
+  "price": "99000",
+  "img1": "/images/mars1.jpg",
+  "img2": "/images/mars2.jpg",
+  "img3": "/images/mars3.jpg",
+  "__v": 0,
+  "description": "Mars is sometimes called the Red Planet. It's red because of rusty iron in the ground. Like Earth, Mars has seasons, polar ice caps, volcanoes, canyons, and weather. It has a very thin atmosphere made of carbon dioxide, nitrogen, and argon.",
+  "rating": "4.88",
+  "tag": [
+    "mars",
+    "red",
+    "planet",
+    "galaxy"
+  ]
+},{
+  "_id": {
+    "$oid": "62ad1bbc3af57b308a953f1e"
+  },
+  "name": "Arrakis",
+  "details": "Arrakis is the third planet orbiting the star Canopus, and it in turn is orbited by two moons",
+  "price": "500000",
+  "img1": "/images/arrakis1.jpg",
+  "img2": "/images/arrakis2.jpeg",
+  "img3": "/images/arrakis3.jpg",
+  "__v": 0,
+  "description": "Arrakis is the third planet orbiting the star Canopus, and it in turn is orbited by two moons, one of which has an albedo pattern resembling the desert kangaroo mouse, Muad'Dib, on it; the other moon has markings resembling a human hand.",
+  "rating": "4.90",
+  "tag": [
+    "dune",
+    "planet",
+    "akkaris",
+    "Canopus",
+    "sand",
+    "fiction"
+  ]
+},{
+  "_id": {
+    "$oid": "62ad1bfb3af57b308a953f20"
+  },
+  "name": "Coruscant",
+  "details": "Located in the Coruscant subsector of the Corusca sector within the Core Worlds region",
+  "price": "200000",
+  "img1": "/images/coruscant1.jpg",
+  "img2": "/images/coruscant2.jpg",
+  "img3": "/images/coruscant3.jpg",
+  "__v": 0,
+  "description": "Located in the Coruscant subsector of the Corusca sector within the Core Worlds region, Coruscant was a planet covered in a dense ecumenopolis. The diameter of Coruscant was 12,240 kilometers; it orbited a small star, known as Coruscant Prime, in the Coruscant system.",
+  "rating": "4.17",
+  "tag": [
+    "star wars",
+    "planet",
+    "yoda",
+    "fiction"
+  ]
+},{
+  "_id": {
+    "$oid": "62ad1c473af57b308a953f24"
+  },
+  "name": "Earth",
+  "details": "Planet Earth is a rocky, terrestrial planet. It has a solid and active surface with mountains, valleys, canyons, plains and so much more. ",
+  "price": "5000",
+  "img1": "/images/earth1.jpg",
+  "img2": "/images/earth2.jpg",
+  "img3": "/images/earth3.jpg",
+  "__v": 0,
+  "description": "planet Earth is a rocky, terrestrial planet. It has a solid and active surface with mountains, valleys, canyons, plains and so much more. Earth is special because it is an ocean planet. Water covers 70% of Earth's surface.",
+  "rating": "4.00",
+  "tag": [
+    "cheapest",
+    "earth",
+    "planet",
+    "galaxy",
+    "blue"
+  ]
+},{
+  "_id": {
+    "$oid": "62b8648c0de7e03f10c0a43b"
+  },
+  "name": "Pandora",
+  "details": "Pandora is an Earth-like habitable extrasolar moon from the Alpha Centauri System",
+  "description": "Pandora is an Earth-like habitable extrasolar moon from the Alpha Centauri System, the closest star system to human's own Solar System. It is the fifth moon of the gas giant Polyphemus, which orbits Alpha Centauri A.",
+  "price": "163000",
+  "img1": "/images/pandora1.jpg",
+  "img2": "/images/pandora2.jpg",
+  "img3": "/images/pandora3.jpg",
+  "rating": "4.21",
+  "tag": [
+    "avatar",
+    "pandora",
+    "fiction",
+    "planet"
+  ],
+  "__v": 0
+}]

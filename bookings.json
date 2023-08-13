@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "62b8a32b78b8d9b3dfff9f7d"
+  },
+  "destinationid": "629c1c067eca2f005b230750",
+  "numberOfPeoples": 4,
+  "totalPrice": 147600,
+  "emailAddress": "Amilosevic07@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62b8c19178b8d9b3dfffa0e4"
+  },
+  "destinationid": "629c21521505d323b52bdb33",
+  "numberOfPeoples": 2,
+  "totalPrice": 280000,
+  "emailAddress": "",
+  "__v": 0
+}]
